@@ -80,6 +80,9 @@ output:
               got: " 1 , 2 "
 ```
 
+# Snapshot
+![image](https://github.com/user-attachments/assets/6cee7282-8743-46ae-bc03-3cac51581d39)
+
 ---
 # Developed by Arputhavarnam M C
 ---
